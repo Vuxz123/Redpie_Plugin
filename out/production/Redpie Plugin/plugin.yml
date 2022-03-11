@@ -1,0 +1,20 @@
+name: Redpie
+main: com.ethnicthv.redpie.Redpie
+version: 0.0.1-beta
+author: VuxZz
+commands:
+  test:
+    description: Testing command
+    usage: /<command>
+  testload:
+    description: Testing Loading command
+    usage: /<command>
+  testcommand:
+    description: Testing command
+    usage: /<command>
+  testforce:
+    description: Testing force command
+    usage: /<command>
+  status:
+    description: Show player status
+    usage: /<command>
